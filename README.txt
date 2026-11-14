@@ -1,0 +1,1 @@
+Leeme, esto es un esqueleto de un sistema, y para github es la primera vez que hag esto
